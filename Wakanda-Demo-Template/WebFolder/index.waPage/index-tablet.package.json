@@ -1,0 +1,62 @@
+{
+	"name": "Wakanda-Demo-Template/index.waPage/index-tablet.html",
+	"type": "page",
+	"version": "1.0.0",
+	"loadDependencies": [
+		{
+			"id": "Mobile_Core",
+			"version": "1.0.0",
+			"type": "core"
+		},
+		{
+			"id": "Widget/tabView",
+			"type": "widget"
+		},
+		{
+			"id": "Widget/menuBar",
+			"type": "widget"
+		},
+		{
+			"id": "Widget/menuItem",
+			"type": "widget"
+		},
+		{
+			"id": "Widget/richText",
+			"type": "widget"
+		},
+		{
+			"id": "Widget/container",
+			"type": "widget"
+		},
+		{
+			"id": "Widget/matrix",
+			"type": "widget"
+		},
+		{
+			"id": "Widget/image",
+			"type": "widget"
+		},
+		{
+			"package": "cupertinoIpad"
+		},
+		{
+			"package": "Matrix"
+		},
+		{
+			"package": "Text"
+		},
+		{
+			"package": "Image"
+		},
+		{
+			"file": "styles/index.css"
+		},
+		{
+			"file": "application.css",
+			"path": "WEBFOLDER"
+		},
+		{
+			"file": "styles/index-tablet.css"
+		}
+	]
+}

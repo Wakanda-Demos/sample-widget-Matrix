@@ -1,0 +1,17 @@
+/*.waf-matrix2>div>div.well::before {
+    opacity:0;
+    position:absolute;
+    top:0px;
+    left:0px;
+    bottom:0px;
+    right:0px;
+    background-image:url('loading.gif');
+    background-repeat:no-repeat;
+    background-position:center;
+    content:"";
+    transition:opacity 0.5s;
+    will-change:opacity;
+}
+.waf-matrix2>div>div.well.waf-state-loading::before {
+    opacity:1;
+}*/
